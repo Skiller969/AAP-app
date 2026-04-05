@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2026-04-05T10:54:39.436235",
+    "symbol": "AAPL",
+    "action": "BUY",
+    "price": 255.88999938964844,
+    "reason": "Bullish MA crossover, Positive sentiment"
+  }
+]
